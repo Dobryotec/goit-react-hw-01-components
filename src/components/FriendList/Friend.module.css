@@ -1,0 +1,20 @@
+.item {
+  display: flex;
+  align-items: flex-start;
+  box-shadow: 2px 2px 4px 4px black;
+  max-width: 350px;
+  margin: 0 auto;
+  font-size: 50px;
+  margin-bottom: 60px;
+  padding: 10px;
+}
+
+.status {
+  margin-right: 10px;
+  font-size: 30px;
+  padding-top: 10px;
+}
+
+.avatar {
+  margin-right: 30px;
+}

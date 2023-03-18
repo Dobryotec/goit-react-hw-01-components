@@ -1,0 +1,16 @@
+.transaction-history {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.thead {
+  background-color: aquamarine;
+}
+
+.th {
+  text-align: center;
+  padding: 8px;
+  border: 1px solid #ddd;
+  font-weight: 700;
+}
